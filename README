@@ -1,0 +1,1 @@
+The programme uses API to give weather information. Using Twilio it also sends SMS to user if it's gonna rain or snow or anything.
